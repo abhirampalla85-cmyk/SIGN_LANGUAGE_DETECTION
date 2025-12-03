@@ -5,7 +5,7 @@ It uses your webcam to capture hand landmarks and predict the corresponding lett
 
 ---
 
-##  Requirements
+## Requirements
 
 To run this project, you will need the following dependencies:
 
@@ -19,7 +19,7 @@ To run this project, you will need the following dependencies:
 
 ---
 
-##  Installation
+## Installation
 
 Open your terminal or PowerShell and run these commands:
 
